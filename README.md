@@ -20,6 +20,7 @@ Me chamo Anthony Luccas, tenho 18 anos e sou natural do Ceará. Atualmente estou
         />
     </a>
 </p>
+
 ---
 
 ### 🤖Linguagens e Tecnologias
