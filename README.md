@@ -1,98 +1,57 @@
-# 🧑🏻‍💻 Anthony Luccas
+<h1 align="left">🧑🏻‍💻 Anthony Luccas</h1>
 
-**`Desenvolvedor FullStack`**
+###
 
-Me chamo Anthony Luccas, tenho 18 anos e sou natural do Ceará. Atualmente estou cursando a formação FullStack no DevClub com o professor Rodolfo Mori e cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia, amo desenvolver e ver as coisas funcionando.
+<p align="left">Me chamo Anthony Luccas, tenho 18 anos e sou natural do Ceará. Atualmente estou cursando a formação FullStack no DevClub com o professor Rodolfo Mori e cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia, amo desenvolver e ver as coisas funcionando.</p>
 
-<p align="left">
-    <a href="https://github.com/anthonyluccas?tab=followers">
-        <img
-        alt="Seguidores"
-        title="Me siga no Github"
-        src="https://custom-icon-badges.demolab.com/github/followers/anthonyluccas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/anthonyluccas?tab=repositories&sort=stargazers">
-        <img
-        alt="Total de estrelas"
-        title="Total de estrelas GitHub"
-        src="https://custom-icon-badges.demolab.com/github/stars/anthonyluccas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+###
 
----
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
-### 🤖Linguagens e Tecnologias
+###
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img 
-    align="left"
-    alt="Node"
-    title="Node"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+</div>
 
-<br/>
-<br/>
+###
 
-### 📊 Estatísticas
+<h2 align="left">📊 Estatísticas</h2>
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=anthonyluccas&locale=pt-br&include_all_commits=true&show_icons=true&theme=tokyonight"
-  />
+###
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyluccas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=anthonyluccas&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=anthonyluccas&theme=tokyonight&column=-1&row=1&margin-w=10&margin-h=9&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyluccas&radius=16&theme=tokyo-night&area=false&order=5&custom_title=Contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
-</p>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luccasdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/luccasdev07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
