@@ -40,13 +40,13 @@ Sou desenvolvedor Front-End apaixonado por criar interfaces limpas, acessíveis 
 ## 📫 Vamos conversar?
 
 <p>
-  <a href="https://www.linkedin.com/in/luccasdev/">
+  <a href="https://www.linkedin.com/in/luccasdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/anthonytecch/">
+  <a href="https://www.instagram.com/anthonytecch/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://anthonyluccas.com/">
+  <a href="https://anthonyluccas.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
 </p>
