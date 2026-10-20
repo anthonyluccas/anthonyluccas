@@ -1,57 +1,52 @@
-<h1 align="left">🧑🏻‍💻 Anthony Luccas</h1>
+<h1 align="center">Olá, eu sou o Anthony 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Desenvolvedor+Front-End;Transformando+ideias+em+interfaces;Sempre+aprendendo+algo+novo" alt="Animação de digitação" />
+</p>
 
-<p align="left">Me chamo Anthony Luccas, tenho 18 anos e sou natural do Ceará. Atualmente estou cursando a formação FullStack no DevClub com o professor Rodolfo Mori e cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia, amo desenvolver e ver as coisas funcionando.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End-Developer-6C63FF?style=flat-square" alt="Front-End Developer" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-###
+---
 
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+## 👨‍💻 Sobre mim
 
-###
+Sou desenvolvedor Front-End apaixonado por criar interfaces limpas, acessíveis e agradáveis de usar. Gosto de entender como as coisas funcionam por trás da tela e estou sempre em busca de evoluir, um projeto de cada vez.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-</div>
+## 🛠️ Tecnologias
 
-###
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-<h2 align="left">📊 Estatísticas</h2>
+## 📊 Linguagens mais usadas
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyluccas&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas" />
+</p>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=anthonyluccas&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=anthonyluccas&theme=tokyonight&column=-1&row=1&margin-w=10&margin-h=9&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyluccas&radius=16&theme=tokyo-night&area=false&order=5&custom_title=Contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+## 💬 Frase favorita
 
-###
+> "Não há vergonha em ser fraco. Só de continuar fraco."
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/luccasdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+## 📫 Vamos conversar?
+
+<p>
+  <a href="https://www.linkedin.com/in/luccasdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/luccasdev07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/anthonytecch/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+  <a href="https://anthonyluccas.com/">
+    <img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
